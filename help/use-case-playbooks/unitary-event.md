@@ -90,7 +90,7 @@ ht-degree: 0%
 
 ## IMS-token ophalen
 
-1. Volg deze [API&#39;s van Experience Platforms verifiëren en openen](https://experienceleague.adobe.com/docs/experience-platform/landing/platform-apis/api-authentication.html) documentatie om de Token van de Toegang te produceren.
+1. Volg deze [API&#39;s van Experience Platforms verifiëren en openen](https://experienceleague.adobe.com/docs/experience-platform/landing/platform-apis/api-authentication.html?lang=nl-NL) documentatie om de Token van de Toegang te produceren.
 
 ## De reis publiceren die is gemaakt door Playbook
 
@@ -611,12 +611,12 @@ Er zijn twee manieren om de reis te publiceren; u kunt om het even welke van hen
                "timestamp": "'$TIMESTAMP'",
                "web": {
                    "webInteraction": {
-                       "URL": "https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/collect-commerce-data.html?lang=en",
+                       "URL": "https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/collect-commerce-data.html?lang=nl-NL",
                        "name": "Sample value",
                        "region": "Sample value"
                    },
                    "webPageDetails": {
-                       "URL": "https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/collect-commerce-data.html?lang=en",
+                       "URL": "https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/collect-commerce-data.html?lang=nl-NL",
                        "isErrorPage": false,
                        "isHomePage": false,
                        "name": "Sample value",
