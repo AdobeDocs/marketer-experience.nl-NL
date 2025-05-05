@@ -34,7 +34,7 @@ ht-degree: 0%
 >[!TIP]
 >
 >Als u een terminal gebruikt om de curls uit te voeren, kunt u variabelewaarden instellen voordat u de curls uitvoert, zodat het niet nodig is deze waarden in afzonderlijke curls te vervangen.
->Bijvoorbeeld: als u instelt `ORG_ID=************@AdobeOrg`, vervangt shell automatisch elk voorkomen van `$ORG_ID` met de waarde, zodat u de curls hieronder kunt kopiëren, plakken en uitvoeren zonder wijzigingen aan te brengen.
+>Bijvoorbeeld: als u instelt `ORG_ID=**&#x200B;**&#x200B;**&#x200B;**&#x200B;**&#x200B;**@AdobeOrg`, vervangt shell automatisch elk voorkomen van `$ORG_ID` met de waarde, zodat u de curls hieronder kunt kopiëren, plakken en uitvoeren zonder wijzigingen aan te brengen.
 >
 > In dit document worden de volgende variabelen gebruikt
 >
